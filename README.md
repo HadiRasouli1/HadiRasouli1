@@ -16,14 +16,15 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HadiRasouli1&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HadiRasouli1&layout=compact&theme=radical)
+//![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HadiRasouli1&layout=compact&theme=radical)
 
 
 
 
-## 🏆 GitHub Trophies  
+//## 🏆 GitHub Trophies  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HadiRasouli1&theme=radical&no-frame=true)
+//![Trophies](https://github-profile-trophy.vercel.app/?username=HadiRasouli1&theme=radical&no-frame=true&cache_seconds=86400)
+
 
 ## 🤝 Let's Connect!
 
