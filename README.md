@@ -19,5 +19,6 @@
 
 ## 🏆 GitHub Trophies  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HadiRasouli1&theme=radical)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HadiRasouli1&theme=radical&no-frame=true)
+
 
