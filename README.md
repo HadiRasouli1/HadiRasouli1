@@ -12,10 +12,10 @@
 
 
 
-
 ## 📊 Github Status
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HadiRasouli1&show_icons=true&theme=tokyonight" />
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HadiRasouli1&show_icons=true&theme=radical)
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HadiRasouli1&show_icons=true&theme=tokyonight" /> -->
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=HadiRasouli1&theme=tokyonight" />
   <br/>
@@ -23,13 +23,6 @@
 </p>
 
 
-<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HadiRasouli1&layout=compact&theme=radical) -->
-
-<!-- 
-## 🏆 GitHub Trophies  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=HadiRasouli1&theme=radical&no-frame=true&cache_seconds=86400)
--->
 
 
 ## 🤝 Let's Connect!
