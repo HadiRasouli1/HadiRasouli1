@@ -21,7 +21,7 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=HadiRasouli1&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiRasouli1&theme=tokyonight" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiRasouli1&theme=tokyonight" /> -->
 </p>
 
 
